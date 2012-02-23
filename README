@@ -1,0 +1,23 @@
+- Written by Wolfgang Miedl <wmiedl@zid.tuwien.ac.at>
+
+= Description
+
+Installs Logrotate and exports a few paths for other modules to use.
+The class is quite basic.
+
+= License
+
+This work is licensed under the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) 
+license. A full copy of the license terms can be found in the file LICENSE.
+
+By using, modifying or redistributing this work you agree to be bound by the 
+license terms. 
+
+= Requirements
+
+None
+
+= Example
+
+include logrotate
+
